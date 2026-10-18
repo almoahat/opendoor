@@ -1,0 +1,16 @@
+{
+  "name": "opendoor",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "typecheck": "turbo run typecheck",
+    "test": "turbo run test"
+  },
+  "packageManager": "pnpm@10.34.7",
+  "devDependencies": {
+    "turbo": "^2.11.9",
+    "typescript": "^7.0.2"
+  }
+}
