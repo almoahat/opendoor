@@ -8,7 +8,12 @@
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "dev.almoahat.opendoor"
+      "bundleIdentifier": "dev.almoahat.opendoor",
+      "appleTeamId": "87Z5GV5738",
+      "infoPlist": {
+        "NSCameraUsageDescription": "OpenDoor uses your camera only if you turn it on during a call.",
+        "NSMicrophoneUsageDescription": "OpenDoor uses your microphone so you can talk during office hours calls."
+      }
     },
     "android": {
       "adaptiveIcon": {

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {
+    "@zoom/react-native-videosdk": "^2.6.11",
     "expo": "~58.0.19",
     "expo-dev-client": "~58.0.15",
     "expo-status-bar": "~58.0.4",
