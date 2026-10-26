@@ -10,3 +10,5 @@
 .git
 apps/mobile/ios
 apps/mobile/android
+
+infra/cdk.out
